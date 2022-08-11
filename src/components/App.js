@@ -9,11 +9,7 @@ import CommentSection from "./CommentSection.js";
 
 
 function App() {
-  console.log("Here's your data:", video);
-  
- 
-  
-
+ // console.log("Here's your data:", video);
   return (
     <div className="App">
        <iframe
